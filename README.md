@@ -1,4 +1,7 @@
+![github-header-image](https://github.com/user-attachments/assets/fbafe604-ff4c-4208-8b84-5d1a628c174c)
+
 # 💫 About Me:
+
 Self-taught in ICT, Cyber Security, Ethical Hacking since 2018 as a curiosity thing, coming back to it in 2023 after being a Web Developer for a while, realizing that Cyber Security; whether it be Red Teaming or Blue Teaming, was my true home, my true career.<br>
 
 
