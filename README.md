@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Self-taught in ICT, Cyber Security and Ethical Hacking since 2018. Coming back to it in 2023 after being a Web Developer for a while, realizing that Cyber Security; whether it be Red Teaming or Blue Teaming, was my true home, my true career.<br>
+Self-taught in ICT, Cyber Security and Ethical Hacking since 2023<br>
 
 # 🟩 Labs/Training
 ![TryHackMe](https://raw.githubusercontent.com/Fizzsh/Fizzsh/master/assets/thm_propic.png) ![image](https://github.com/user-attachments/assets/86b6a7b2-c8e4-40a4-a5f4-ae191aa43293)
