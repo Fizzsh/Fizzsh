@@ -1,7 +1,5 @@
 <img src=assets/banner/fizzshbanner.png>
-
-<br>
-<br>
+<img src=assets/fizzshanimateddivider.gif>
 
 <!--The Languages and Tools I use-->
 <h2 align="center">TECHNOLOGIES</h2>
@@ -37,8 +35,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<br>
-<br>
+<img src=assets/fizzshanimateddivider.gif>
 
 <!--The Software and Applications I use-->
 <h2 align="center">SOFTWARE & TOOLS</h2>
@@ -78,8 +75,7 @@
   <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
 </p>
 
-<br>
-<br>
+<img src=assets/fizzshanimateddivider.gif>
 
 <!--Operating Systems (and distros) I use-->
 <h2 align="center">OPERATING SYSTEMS</h2>
@@ -121,8 +117,7 @@
     <img src="https://img.shields.io/badge/Qubes-56347C?style=for-the-badge&logo=qubesos&logoColor=white" />
 </p>
 
-<br>
-<br>
+<img src=assets/fizzshanimateddivider.gif>
 
 <!--Cybersecurity Stuff-->
 <h2 align="center">CYBERSECURITY</h2>
@@ -170,8 +165,7 @@
   </a>
 </p>
 
-<br>
-<br>
+<img src=assets/fizzshanimateddivider.gif>
 
 <!--Activity on my Platforms-->
 <h2 align="center">🖤 GITHUB 🩶 ACTIVITY 🤍</h2>
@@ -186,5 +180,5 @@
 </a><a href="https://github.com/Fizzsh">
   <img width="48%" src="https://streak-stats.demolab.com/?user=Fizzsh&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </a>
-
+<img src=assets/fizzshanimateddivider.gif>
 </div>
